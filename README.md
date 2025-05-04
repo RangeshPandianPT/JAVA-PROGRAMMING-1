@@ -3,39 +3,41 @@ Java is a high-level, object-oriented programming language developed by Sun Micr
 
 Java is widely used for developing:
 
-Desktop applications
+1.Desktop applications
 
-Web applications
+2.Web applications
 
-Mobile apps (especially Android)
+3.Mobile apps (especially Android)
 
-Enterprise software
+4.Enterprise software
 
-Backend systems
+5.Backend systems
 
 🔑 Key Features of Java
-Simple & Familiar: Easy to learn, especially for those with C/C++ backgrounds.
 
-Object-Oriented: Everything is treated as an object, supporting principles like inheritance, encapsulation, and polymorphism.
+1.Simple & Familiar: Easy to learn, especially for those with C/C++ backgrounds.
 
-Platform-Independent: Java code is compiled into bytecode, which runs on any device with a JVM.
+2.Object-Oriented: Everything is treated as an object, supporting principles like inheritance, encapsulation, and polymorphism.
 
-Secure & Robust: Strong memory management and built-in security features.
+3.Platform-Independent: Java code is compiled into bytecode, which runs on any device with a JVM.
 
-Multithreaded: Built-in support for concurrent programming.
+4.Secure & Robust: Strong memory management and built-in security features.
 
-Rich API: Comes with extensive libraries for networking, data structures, I/O, and more.
+5.Multithreaded: Built-in support for concurrent programming.
+
+6.Rich API: Comes with extensive libraries for networking, data structures, I/O, and more.
 
 🧱 Java Basic Building Blocks
-Classes & Objects
 
-Variables & Data Types
+1.Classes & Objects
 
-Operators
+2.Variables & Data Types
 
-Control Flow Statements (if, switch, loops)`
+3.Operators
 
-Arrays
+4.Control Flow Statements (if, switch, loops)`
+
+5.Arrays
 
 Methods (Functions)
 
