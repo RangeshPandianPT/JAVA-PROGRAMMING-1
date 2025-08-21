@@ -23,4 +23,5 @@ public class FactorsWhileLoop {
         
         scanner.close();
     }
+
 }
